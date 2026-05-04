@@ -1,3 +1,5 @@
 requests
 feedparser
 twilio
+playwright
+anthropic
